@@ -1,0 +1,13 @@
+package com.phs.slo_batch;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SloBatchApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SloBatchApplication.class, args);
+	}
+
+}
